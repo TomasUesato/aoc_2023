@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# input files
+input.txt
+
 # C extensions
 *.so
 
