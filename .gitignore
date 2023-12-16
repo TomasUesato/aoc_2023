@@ -5,6 +5,7 @@ __pycache__/
 
 # input files
 input.txt
+input_test.txt
 
 # C extensions
 *.so
